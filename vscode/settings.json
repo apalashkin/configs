@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": -1,
+    "python.pythonPath": "python3",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "python.linting.pep8Enabled": true,
+    "window.menuBarVisibility": "toggle"
+}
