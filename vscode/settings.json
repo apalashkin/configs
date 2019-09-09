@@ -7,5 +7,7 @@
     "editor.renderControlCharacters": false,
     "diffEditor.ignoreTrimWhitespace": true,
     "python.linting.pep8Enabled": true,
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "default",
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.copyOnSelection": true
 }
