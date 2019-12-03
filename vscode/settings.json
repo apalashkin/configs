@@ -9,5 +9,27 @@
     "python.linting.pep8Enabled": true,
     "window.menuBarVisibility": "default",
     "terminal.integrated.scrollback": 10000,
-    "terminal.integrated.copyOnSelection": true
+    "terminal.integrated.copyOnSelection": true,
+    "ponyssh.hosts": {
+        "host": {
+            "host": "host.address",
+            "username": "user",
+            "port": 22,
+            "privateKeyFile": "C:\\ssh_keys\\user.prv",
+            "path": "~"
+        },
+        "jenkins": {
+            "host": "jenkins.local.domain",
+            "username": "jenkins",
+            "port": 22,
+            "password": "*******",
+            "path": "/home/jenkins/"
+        }
+    },
+    "gitlens.blame.avatars": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.blame.format": "${author|15}: ${message|25?} ${agoOrDate|14-}",
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.enabled": false
 }
