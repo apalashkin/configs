@@ -26,10 +26,10 @@
 [color]
 	ui = true
 [merge]
-  tool = kdiff3
+	tool = kdiff3
 [mergetool "kdiff3"]
-  path = C:/Program Files/KDiff3/kdiff3.exe
+ 	path = /opt/homebrew/bin/kdiff3
 [rebase]
-  instructionFormat = %s [%an]
+ 	instructionFormat = %s [%an]
 [core]
-	excludesfile = C:/Users/apalashkin/.gitignore_global
+	excludesfile = ~/.gitignore_global
